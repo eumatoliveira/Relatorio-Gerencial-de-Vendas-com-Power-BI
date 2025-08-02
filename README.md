@@ -72,5 +72,29 @@ Este repositório contém:
 ## 🧠 Como rodar este projeto
 
 1. Clone o repositório:
+2. Abra o arquivo Relatorio.pbix no Power BI Desktop.
+
+Certifique-se de que a base de dados está na pasta correta.
+
+Explore, edite, melhore!
+
+✨ Melhorias Possíveis
+Inserção de bookmarks personalizados
+
+Uso de painéis de tooltip com informações detalhadas
+
+Inclusão de novos gráficos como mapas ou funis
+
+Design responsivo e acessível
+
+📬 Contato
+Caso queira trocar uma ideia ou tenha alguma dúvida, fique à vontade para me chamar:
+
+Matheus Oliveira
+📧 matheus.rob.oliveira@gmail.com
+🔗 linkedin.com/in/matheus-oliveira-souzaa
+
+
+
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
