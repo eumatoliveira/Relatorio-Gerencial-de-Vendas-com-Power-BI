@@ -22,11 +22,12 @@ Tudo isso organizado de forma lógica e com uma boa experiência de navegação.
 
 ### 📌 Página 1
 
-![Página 1](https://github.com/eumatoliveira/Relatorio-Gerencial-de-Vendas-com-Power-BI/blob/main/Captura%20de%20tela%202025-08-02%20142730.png?raw=true)
+
+![Página 2](https://github.com/eumatoliveira/Relatorio-Gerencial-de-Vendas-com-Power-BI/blob/main/Captura%20de%20tela%202025-08-02%20142752.png?raw=true)
 
 ### 📌 Página 2
 
-![Página 2](https://github.com/eumatoliveira/Relatorio-Gerencial-de-Vendas-com-Power-BI/blob/main/Captura%20de%20tela%202025-08-02%20142752.png?raw=true)
+![Página 1](https://github.com/eumatoliveira/Relatorio-Gerencial-de-Vendas-com-Power-BI/blob/main/Captura%20de%20tela%202025-08-02%20142730.png?raw=true)
 
 ---
 
